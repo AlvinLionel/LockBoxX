@@ -1,0 +1,22 @@
+
+  [32m[1mVITE[22m v8.2.2[39m  [2mready in [0m[1m527[22m[2m[0m ms[22m
+
+  [32m➜[39m  [1mLocal[22m:   [36mhttp://localhost:[1m5173[22m/[39m
+  [32m➜[39m  [1mNetwork[22m: [36mhttp://192.168.0.103:[1m5173[22m/[39m  [2mWi-Fi[22m
+  [32m➜[39m  [1mNetwork[22m: [36mhttp://172.29.32.1:[1m5173[22m/[39m    [2mvEthernet (Default …[22m
+[2m[32m  ➜[39m[22m[2m  press [22m[1mh + enter[22m[2m to show help[22m
+[2m11:22:36[22m [36m[1m[vite][22m[39m [32mvite.config.ts changed, restarting server...[39m
+========================================
+LOCKBOX VITE CONFIG LOADED
+SERVER HEADERS: {
+  'Cross-Origin-Opener-Policy': 'same-origin',
+  'Cross-Origin-Embedder-Policy': 'require-corp'
+}
+PREVIEW HEADERS: {
+  'Cross-Origin-Opener-Policy': 'same-origin',
+  'Cross-Origin-Embedder-Policy': 'require-corp'
+}
+========================================
+[2m11:22:36[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m Re-optimizing dependencies because vite config has changed
+[2m11:22:36[22m [36m[1m[vite][22m[39m server restarted.
+[2m11:22:38[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [optimizer] bundling dependencies...
