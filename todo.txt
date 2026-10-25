@@ -1,0 +1,10 @@
+= There is an issue with key exchange, not sure what it is but find it and fix it
+= Include a welcome/help feature to guide the user on how to work on the platform and decide which service they need and those they don't
+= For public key encryption, introduce fingerprint/digital signature to prevent man-in-the-middle attacks.
+= Improve the drop zone to show progress while uploading files other than remaining idle and static
+= Use HTML wrapper for media to open in a browser using web crypto. Encrypt the media then password-protect the html to prevent retrieval by inspection
+= Remove unused libraries
+= Fix the 'The entered lbx file has been tampered with or corrupted' message showing during lock removal
+= Replace the emojis with icons where possible
+= Unlock dropzone fix; fix the error message for when the resource is not locked
+=Try to make it so that on opening the user is asked, ' how would you like to protect your resource: standard password lock, full encryption'
